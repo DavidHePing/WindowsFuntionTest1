@@ -8,4 +8,3 @@ SELECT
         ORDER BY grade DESC
     ) AS grade_rank
 FROM student_score
-ORDER BY name ASC;
